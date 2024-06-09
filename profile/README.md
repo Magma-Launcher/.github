@@ -9,6 +9,8 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+Website: https://magmalauncher.netlify.app
+
 ## Introduction
 Welcome to Magma Launcher 1.0! Magma Launcher is a cutting-edge gaming launcher designed to streamline your gaming experience. Developed by MagmaLauncher, Magma Launcher provides a user-friendly interface to access your favorite games effortlessly.
 
